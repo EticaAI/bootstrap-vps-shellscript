@@ -1,0 +1,3 @@
+# execute.txt
+# Here just some examples
+sudo apt install -y net-tools

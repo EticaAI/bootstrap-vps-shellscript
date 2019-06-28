@@ -1,0 +1,4 @@
+# publickeys.txt
+# Path for the public keys that you want to add to remote host
+/home/myuser/.ssh/id_rsa.pub
+/home/myyser/.ssh/id_rsa-another-publickey.pub

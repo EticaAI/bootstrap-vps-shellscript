@@ -1,4 +1,4 @@
-# Bootstrap VPS Shellscript
+# Bootstrap VPS Shell Script
 **[Public Draft] Simple portable shell script bootstrap VPSs. Focused to help
 deal with very, very cheap infrastructure providers and when using Chef, Puppet,
 Ansible, Saltstack can be overkill**.
@@ -7,3 +7,9 @@ Ansible, Saltstack can be overkill**.
 - Add public keys
 - (...)
 
+## Installation
+
+```bash
+curl https://raw.githubusercontent.com/EticaAI/bootstrap-vps-shellscript/master/bootstrap-vps.sh
+# @todo continue ...
+```
